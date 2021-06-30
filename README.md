@@ -13,26 +13,26 @@
 </a>
 
 #### languages used:
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" align="left"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" align="left"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="left"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" align="left"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" align="left"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
 
 #### databases and plateform used:
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" align="right"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="right"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" align="left"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left"></code>
 
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" align="center"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="center"></code>
 
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" align="right"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" align="right"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" align="right"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" align="right"></code>
 
 #### Framework and libraries used:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
