@@ -20,7 +20,3 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
-
-##Join me on my discord server
-
-<iframe src="https://discord.com/widget?id=808930463325749298&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
