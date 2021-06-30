@@ -4,7 +4,7 @@
 
 ## 🚩 Projects:
 - [discord-buttons](https://npmjs.com/discord-buttons)
-- [<img src="https://cdn.discordapp.com/icons/808930463325749298/adb5b8dda5e497a09edd8ca38c95364d.png?size=4096" width="24"/> Ultron-Bot](https://discord.gg/Vn8c28pdmn)
+- [<img src="https://cdn.discordapp.com/icons/808930463325749298/adb5b8dda5e497a09edd8ca38c95364d.png?size=2048" width="24"/> Ultron-Bot](https://discord.gg/Vn8c28pdmn)
 
 #### Programming languages:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
