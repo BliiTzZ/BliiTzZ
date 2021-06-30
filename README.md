@@ -9,3 +9,18 @@
 ## About me
 <img src="https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
+
+#### Languages and Tools I can work with:
+<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+<a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a>
+<a><img src="https://img.shields.io/badge/-Vue-35495e?logo=Vue&logoColor=#42b883"></a>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
+
+##Join me on my discord server
+
+<img src="https://discord.com/widget?id=808930463325749298&theme=dark%22%20width=%22350%22%20height=%22500%22%20allowtransparency=%22true%22%20frameborder=%220%22%20sandbox=%22allow-popups%20allow-popups-to-escape-sandbox%20allow-same-origin%20allow-scripts"/>
