@@ -25,10 +25,8 @@
 #### databases and plateform used:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" align="left"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" align="left"></code>
-
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" align="center"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="center"></code>
-
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" align="middle"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" align="middle"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" align="right"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" align="right"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" align="right"></code>
