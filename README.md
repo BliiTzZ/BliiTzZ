@@ -9,7 +9,7 @@
 ## Join me on my discord servers
 
 <a href="https://discord.gg/GBU2S3eW">
-  <img src="https://invidget.switchblade.xyz/GBU2S3eW" align="left">
+  <img src="https://invidget.switchblade.xyz/GBU2S3eW">
 </a>
 
 #### Programming languages:
