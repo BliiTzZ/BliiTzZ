@@ -11,16 +11,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
 
-#### Languages and Tools I can work with:
-<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+#### Programming languages:
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-<a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a>
-<a><img src="https://img.shields.io/badge/-Vue-35495e?logo=Vue&logoColor=#42b883"></a>
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
 
 ## Join me on my discord servers
 
