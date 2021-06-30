@@ -8,9 +8,10 @@
 
 ## About me
 <img src="https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ" />
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=IchiiDev)
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
