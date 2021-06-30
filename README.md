@@ -2,6 +2,8 @@
 
 📞 You can contact me through **[Discord](https://discord.com/users/277780803310845963)** (**`BliiTzZ_#0202`**)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)]()
+
 ## 🚩 Projects:
 - [discord-buttons](https://npmjs.com/discord-buttons)
 - [Ultron-Bot](https://discord.gg/Vn8c28pdmn)
@@ -61,6 +63,5 @@
 
 
 ## About me on github
-[![github stats](https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)]()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
