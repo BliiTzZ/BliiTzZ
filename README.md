@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
 
-## Join me on my discord server
+## Join me on my discord servers
 
 <a href="https://discord.gg/GBU2S3eW">
-  <img src="https://invidget.switchblade.xyz/GBU2S3eW" align="right">
+  <img src="https://invidget.switchblade.xyz/GBU2S3eW" align="left">
 </a>
