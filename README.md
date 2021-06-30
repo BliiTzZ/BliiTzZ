@@ -7,12 +7,9 @@
 - [<img src="https://cdn.discordapp.com/icons/808930463325749298/adb5b8dda5e497a09edd8ca38c95364d.png?size=4096" width="24"/> Ultron-Bot](https://discord.gg/Vn8c28pdmn)
 
 ## About me
-<img src="https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ" />
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)]()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
