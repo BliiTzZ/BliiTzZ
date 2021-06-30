@@ -23,4 +23,4 @@
 
 ##Join me on my discord server
 
-<img src="https://discord.com/widget?id=808930463325749298&theme=dark%22%20width=%22350%22%20height=%22500%22%20allowtransparency=%22true%22%20frameborder=%220%22%20sandbox=%22allow-popups%20allow-popups-to-escape-sandbox%20allow-same-origin%20allow-scripts"/>
+<iframe src="https://discord.com/widget?id=808930463325749298&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
