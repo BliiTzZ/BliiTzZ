@@ -6,6 +6,12 @@
 - [discord-buttons](https://npmjs.com/discord-buttons)
 - [Ultron-Bot](https://discord.gg/Vn8c28pdmn)
 
+## Join me on my discord servers
+
+<a href="https://discord.gg/GBU2S3eW">
+  <img src="https://invidget.switchblade.xyz/GBU2S3eW" align="left">
+</a>
+
 #### Programming languages:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -21,13 +27,6 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
-
-## Join me on my discord servers
-
-<a href="https://discord.gg/GBU2S3eW">
-  <img src="https://invidget.switchblade.xyz/GBU2S3eW" align="left">
-</a>
-
 
 ## About me on github
 [![github stats](https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)]()
