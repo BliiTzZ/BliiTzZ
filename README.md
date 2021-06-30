@@ -8,7 +8,7 @@
 
 ## About me
 [![github stats](https://github-readme-stats.vercel.app/api?username=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)]()
-![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BliiTzZ&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BliiTzZ&show_icons=true&theme=tokyonight&layout=compact" />
 
 #### Programming languages:
@@ -22,9 +22,9 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
 <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
 
 ## Join me on my discord servers
 
